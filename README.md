@@ -167,5 +167,5 @@ Farewell → Greeting → Thanks → Help → FAQ Match → Fallback
 
 Student Assignment — Rule-Based FAQ Chatbot in Python  
 Course: Introduction to NLP / Python Programming  
-Submitted to: [Your Faculty Name]  
-Date: [Submission Date]
+Submitted to: Sangita Kumar  
+
